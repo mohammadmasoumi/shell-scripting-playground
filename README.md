@@ -1,1 +1,1 @@
-# snippents
+# shell scripting playground
